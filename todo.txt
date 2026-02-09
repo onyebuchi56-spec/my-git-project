@@ -1,0 +1,14 @@
+My Git Learning Todo List 
+========================== 
+[ ] Master basic Git commands 
+[ ] Learn branching and merging 
+[ ] Practice collaboration workflows 
+[ ] Understand pull requests 
+[ ] Work with remote repositories 
+[ ] Handle merge conflicts 
+[ ] Use Git in team projects 
+Completed: 
+[x] Initialize a Git repository 
+[x] Make commits 
+[x] Push to GitHub 
+[x] Create branches 
