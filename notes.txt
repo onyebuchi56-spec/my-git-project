@@ -1,0 +1,7 @@
+Git Practice Notes 
+================== 
+1. Git is a version control system 
+2. GitHub is a hosting platform for Git repositories 
+3. Always write clear commit messages 
+4. Commit frequently with logical changes 
+Key Commands: - git init: Initialize a repository - git add: Stage files - git commit: Save changes - git status: Check repository status
